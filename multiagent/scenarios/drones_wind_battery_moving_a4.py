@@ -1,6 +1,6 @@
 import numpy as np
-from multiagentsha.core import World, Agent, Landmark
-from multiagentsha.scenario import BaseScenario
+from multiagent.core import World, Agent, Landmark
+from multiagent.scenario import BaseScenario
 from random import shuffle
 
 

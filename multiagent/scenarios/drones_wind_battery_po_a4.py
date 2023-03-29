@@ -5,8 +5,8 @@ IN v2 agents can see always see their targets and other agents if they fall
 in the vision range
 """
 import numpy as np
-from multiagentsha.core import World, Agent, Landmark
-from multiagentsha.scenario import BaseScenario
+from multiagent.core import World, Agent, Landmark
+from multiagent.scenario import BaseScenario
 from random import shuffle
 import copy
 from scipy.spatial import distance

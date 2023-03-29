@@ -25,7 +25,7 @@ The goal of all the scenarios is to have each drones reaching their targets unde
 
 2. Enable conda env
 
-` conda activate auv`
+`conda activate auv`
 
 3. Install possible dependencies
 
