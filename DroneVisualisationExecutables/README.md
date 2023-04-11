@@ -23,6 +23,12 @@ Once unzipped follow these instructions to load user episodes, depending on plat
 
 ## Scene Controls
 
-!(/sceneControls.png)
+<img src='SceneInformation.png' width='360'>
+
+- **1**: Play or Pause the Simulation at it's current step. Also displays the current step number and the total number of steps
+- **2**: Sliders to change the step speed,(larger number = slower simulation) and also the drone scale.
+- **3**: Current Wind Speed and Wind Direction Values
+- **4**: The Drone battery level
 
 ## File Formatting
+The files for user made episodes need to be in a .json format. The structure of which needs to look as follows. Any deviation from this will result in an error and not display in the list.
